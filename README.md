@@ -1,6 +1,6 @@
 
 #  Sobre Mim:  
-- 🔭 Atualmente estou trabalhando com **Python**<br><br>- 🌱 Sou estudante de **Python/Mecatrônica**<br>  
+- 🔭 Trabalhando com **Python** <br><br>- 🌱 Sou estudante de **Python/Mecatrônica**<br>  
 
 ## 🌐 Redes Sociais:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p3droazuos)  
