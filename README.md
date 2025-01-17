@@ -1,5 +1,5 @@
 
-# 💫 Sobre Mim:  
+#  Sobre Mim:  
 - 🔭 Atualmente estou trabalhando com **Python**<br><br>- 🌱 Sou estudante de **Python/Mecatrônica**<br>  
 
 ## 🌐 Redes Sociais:  
